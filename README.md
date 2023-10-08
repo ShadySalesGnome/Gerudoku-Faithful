@@ -1,4 +1,5 @@
-# Gerudoku-Faithful
+# Gerudoku Faithful
+------------
 A Faithful Continuation of the Gerudoku texture pack.
 
 
@@ -6,7 +7,7 @@ A Faithful Continuation of the Gerudoku texture pack.
 ------------
 This pack is a faithful continuation of the Gerudoku texture pack (by Tom Bones/Ganonline),
 which was a mix of textures from Doku's RPG, Dustycraft, and many more (Credits included in zip file),
-nearly 12 years ago I was inspired to continue it by other continuations and remixes of Gerudoku,
+12 years ago I was inspired to continue it by other continuations and remixes of Gerudoku,
 I've tried to keep as many of the original textures as possible and maintain the style with anything new added over the years.
 
 **Tyken132** (creator of Tydoku) contacted many of the old texture artists to collaborate on Gerudoku Genesis,
