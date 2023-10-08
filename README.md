@@ -24,7 +24,7 @@ https://www.curseforge.com/minecraft/texture-packs/gerudoku-faithful/files
 
 **Other Information**
 ------------------------------
-This Repository is mostly a place to report issues with the pack,
+This repository is mostly a place to report issues with the pack,
 or possibly to make a suggestion, submit a texture for use, or request the removal of a texture that you've made.
 
 
