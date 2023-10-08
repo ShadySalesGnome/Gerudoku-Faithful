@@ -13,8 +13,17 @@ I've tried to keep as many of the original textures as possible and maintain the
 it is through this collaboration that Gerudoku Faithful is now maintained.
 
 
+Download Locations
+------------------------------
+
+https://modrinth.com/resourcepack/gerudoku-faithful/versions
+
+https://www.curseforge.com/minecraft/texture-packs/gerudoku-faithful/files
+
+
 **Links and Other Information**
 ------------------------------
+
 I recommend **Optifine** for full functionality of the pack.
 For Fabric I'd recommend the **Fabulously Optimized** modpack for ease of use, or https://lambdaurora.dev/optifine_alternatives/ for a list of Optifine alternatives
 
@@ -54,10 +63,6 @@ Original Gerudoku
 
 http://www.minecraftforum.net/topic/72914-32x-14-gerudoku-31-mar-2011-outdated-see-pg100/|
 
-
-Gerudoku Faithful on CurseForge
-
-https://www.curseforge.com/minecraft/texture-packs/gerudoku-faithful
 
 Gerudoku Faithful on Minecraft forums
 
