@@ -1,5 +1,5 @@
 ---
-name: Broken Texture Template
+name: Broken Texture
 about: A template for reporting a broken texture
 title: ''
 labels: Broken Texture
