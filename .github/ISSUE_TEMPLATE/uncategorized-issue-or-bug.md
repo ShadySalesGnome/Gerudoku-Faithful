@@ -10,10 +10,16 @@ assignees: ''
 
 **Issue(s):**
 
+- 
 
+**Minecraft Version:**
+
+- 
 
 **Screenshots If Available:**
 
-
+- 
 
 **Other Information If Available:**
+
+-

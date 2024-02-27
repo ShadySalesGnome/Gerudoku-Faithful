@@ -8,18 +8,21 @@ assignees: ''
 ---
 
 **Texture File Name(s):**
-"File name(s)"
 
-
+- "File name(s)"
 
 **Information About The Texture File(s):**
-"Where this file is from or how it was made, and/or other information"
 
-
+- "Where this file is from or how it was made, and/or other information"
 
 **Name That Should Be Credited:**
-"The name or screen name of the person who made the texture"
 
-
+- "The name or screen name of the person who made the texture"
 
 **Screenshots If Available:**
+
+- 
+
+**File(s) Or Link To File(s)**
+
+-
