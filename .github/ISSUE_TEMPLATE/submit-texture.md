@@ -2,7 +2,7 @@
 name: Submit Texture
 about: A template for submitting a texture
 title: Texture Submission "Name of Texture"
-labels: ''
+labels: Submit Texture
 assignees: ''
 
 ---
