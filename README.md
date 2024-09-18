@@ -21,6 +21,9 @@ https://modrinth.com/resourcepack/gerudoku-faithful/versions
 
 https://www.curseforge.com/minecraft/texture-packs/gerudoku-faithful/files
 
+Alternate Textures & Add-on files
+------------------------------
+https://www.mediafire.com/folder/slhycocih413q/Gerudoku
 
 **Other Information**
 ------------------------------
